@@ -2,7 +2,7 @@
 
 . ݁₊ ⊹ .link teste zip: https://www.transfernow.net/dl/20260513Ktrehd4K ݁  ݁ . ⊹ ₊ ݁.
 
-'''
+```
 ᯓ★ TEST #1
 ⚝ random
 ⚝ baseline pentru performanța medie
@@ -59,6 +59,7 @@
 ⚝ “munte”: elementele cresc, după descresc (de la mijloc aici)
 ⚝ caz interesant pentru alegerile de pivoți (mai ales quicksort cu pivot la mijloc)
 ⚝ worst case mergesort
+```
 ⚝ nu are efecte asupra heapsortului
 '''
 
