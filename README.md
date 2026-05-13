@@ -1,2 +1,3 @@
-link teste zip: https://www.transfernow.net/dl/20260513Ktrehd4K
+. ݁₊ ⊹ .link teste zip: https://www.transfernow.net/dl/20260513Ktrehd4K ݁  ݁ . ⊹ ₊ ݁.
+
 
