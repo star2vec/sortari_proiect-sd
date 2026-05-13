@@ -10,12 +10,12 @@
 ᯓ★ TEST #2a
 ⚝ numere ordonate crescător (cu salturi aleatorii)
 ⚝ best case: insertion, bubble, gnome (O(n))
-⚝ worst case: quicksort cu pivot la capăt
+⚝ worst case: patience sort + quicksort cu pivot la capăt
 
 ᯓ★ TEST #2b
 ⚝ numere ordonate descrescător (cu salturi aleatorii)
 ⚝ worst case: insertion, bubble, gnome (O(n^2))
-⚝ worst case: patience (va crea foarte multe stive => mult spațiu ocupat)
+⚝ best case: patience (va crea o singura stiva)
 
 ᯓ★ TEST #3
 ⚝ numere egale
